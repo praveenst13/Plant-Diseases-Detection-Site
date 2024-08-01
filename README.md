@@ -1,1 +1,0 @@
-# Plant-Diseases-Detection-Site
